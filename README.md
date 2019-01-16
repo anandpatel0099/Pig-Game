@@ -1,8 +1,10 @@
 # Pig-Game
 Java Script Game
 
-This game is created for just learning DOM manipulation using Java Script. The game is developed by learning from Udemey course "The Complete JavaScript Course 2018: Build Real Projects!".
 Skills Used: HTML, CSS, JavaScript
+
+This game is created for just learning DOM manipulation using Java Script. The game is developed by learning from Udemey course "The Complete JavaScript Course 2018: Build Real Projects!".
+
 
 GAME RULES:
 
